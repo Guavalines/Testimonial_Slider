@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  font-family: cursive;
+}
+
+.testimonial-container{
+  width: 500px;
+  height: 300px;
+  background-color: lightgray;
+}
+
+img{
+  width: 100x;
+  height: 100px;
+}
