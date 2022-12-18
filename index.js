@@ -30,4 +30,8 @@ function updateTestimonial(){
   imgE1.src = photoUrl;
   textE1.innerText = text;
   usernameE1.innerText = name;
+  idx++
+  setTimeout(()=>{
+    updateTestimonial()
+  }, 2500)
 }
