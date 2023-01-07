@@ -1,3 +1,4 @@
+# TESTIMONIAL SLIDER
 Check it out here: [Testimonial Slider](https://guavalines.github.io/Testimonial_Slider/)
 
 ### Versions
