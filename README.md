@@ -1,6 +1,8 @@
 # TESTIMONIAL SLIDER
 Check it out here: [Testimonial Slider](https://guavalines.github.io/Testimonial_Slider/)
 
+This JavaScript code defines an array of testimonials, selects the image, text, and username elements from the HTML using DOM manipulation, and updates them with the content of the testimonials array. It also uses a recursive function to continuously update the testimonials every 3 seconds, cycling through the array of testimonials.
+
 ### Versions
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
