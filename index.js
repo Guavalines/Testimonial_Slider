@@ -36,5 +36,5 @@ function updateTestimonial(){
   }
   setTimeout(()=>{
     updateTestimonial()
-  }, 3000)
+  }, 2000)
 }
