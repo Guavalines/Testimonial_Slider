@@ -5,6 +5,7 @@ body{
   height: 100vh;
   align-items: center;
   font-family: cursive;
+  background-color: rgb(198, 195, 195);
 }
 
 .testimonial-container{
@@ -16,7 +17,7 @@ body{
   min-width: 400px;
   padding: 70px 20px;
   margin: 5px;
-  color: white;
+  color: rgb(255, 255, 255);
   position: relative;
 }
 
