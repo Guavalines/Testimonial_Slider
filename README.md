@@ -1,4 +1,4 @@
-# [TESTIMONIAL SLIDER](https://guavalines.github.io/Testimonial_Slider/) ☜ click here
+# [TESTIMONIAL SLIDER](https://guavalines.github.io/Testimonial_Slider/) ☜ see it here
 
 # Description
 This is a simple testimonial slider that updates every 3 seconds.
