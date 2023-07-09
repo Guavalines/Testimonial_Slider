@@ -5,7 +5,7 @@ This is a simple testimonial slider that updates every 3 seconds.
 
 # Features
 - Defines an array of testimonials, selects the image, text, and username elements from the HTML using DOM manipulation, and updates them with the content of the testimonials array.
-- Uses a recursive function to continuously update the testimonials every 3 seconds, cycling through the array of testimonials.
+- Uses a recursive function to continuously update the testimonials every 3 sec, cycling through the array of testimonials.
 
 # Tools
 
